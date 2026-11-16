@@ -1,4 +1,4 @@
-# Wonder Lab — Gravity Playground
+# Wonder Lab Gravity Playground
 
 A polished, browser based one-minute science experiment. Move a planet with your mouse, touch, or webcam hand tracking and watch its gravity bend the paths of passing probes. Adjust planet mass and probe speed, launch new probes, and explore.
 
